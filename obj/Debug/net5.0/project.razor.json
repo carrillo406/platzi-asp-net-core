@@ -15619,6 +15619,11 @@
   "RootNamespace": "platzi_asp_net_core",
   "Documents": [
     {
+      "FilePath": "c:\\users\\cac4ju\\Desktop\\c#\\platzi-asp-net-core\\Views\\Shared\\AsignaturaSimple.cshtml",
+      "TargetPath": "Views\\Shared\\AsignaturaSimple.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\users\\cac4ju\\Desktop\\c#\\platzi-asp-net-core\\Views\\Shared\\Simple.cshtml",
       "TargetPath": "Views\\Shared\\Simple.cshtml",
       "FileKind": "mvc"
@@ -15631,6 +15636,11 @@
     {
       "FilePath": "c:\\users\\cac4ju\\Desktop\\c#\\platzi-asp-net-core\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\users\\cac4ju\\Desktop\\c#\\platzi-asp-net-core\\Views\\Asignatura\\Index.cshtml",
+      "TargetPath": "Views\\Asignatura\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15656,6 +15666,11 @@
     {
       "FilePath": "c:\\users\\cac4ju\\Desktop\\c#\\platzi-asp-net-core\\Views\\Escuela\\Index.cshtml",
       "TargetPath": "Views\\Escuela\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\users\\cac4ju\\Desktop\\c#\\platzi-asp-net-core\\Views\\Asignatura\\MultiAsignatura.cshtml",
+      "TargetPath": "Views\\Asignatura\\MultiAsignatura.cshtml",
       "FileKind": "mvc"
     },
     {

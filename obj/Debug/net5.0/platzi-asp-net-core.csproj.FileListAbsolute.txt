@@ -40,3 +40,6 @@ C:\users\cac4ju\Desktop\c#\platzi-asp-net-core\obj\Debug\net5.0\platzi-asp-net-c
 C:\users\cac4ju\Desktop\c#\platzi-asp-net-core\obj\Debug\net5.0\platzi-asp-net-core.csproj.CopyComplete
 C:\users\cac4ju\Desktop\c#\platzi-asp-net-core\obj\Debug\net5.0\Razor\Views\Escuela\Index.cshtml.g.cs
 C:\users\cac4ju\Desktop\c#\platzi-asp-net-core\obj\Debug\net5.0\Razor\Views\Shared\Simple.cshtml.g.cs
+C:\users\cac4ju\Desktop\c#\platzi-asp-net-core\obj\Debug\net5.0\Razor\Views\Asignatura\Index.cshtml.g.cs
+C:\users\cac4ju\Desktop\c#\platzi-asp-net-core\obj\Debug\net5.0\Razor\Views\Shared\AsignaturaSimple.cshtml.g.cs
+C:\users\cac4ju\Desktop\c#\platzi-asp-net-core\obj\Debug\net5.0\Razor\Views\Asignatura\MultiAsignatura.cshtml.g.cs
